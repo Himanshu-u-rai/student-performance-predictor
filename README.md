@@ -67,8 +67,8 @@ The project uses student performance data containing features such as:
 
 1. **Clone the repository** (or download the project files):
    ```bash
-   git clone <repository-url>
-   cd Student-Performance-Predictor
+   git clone https://github.com/Himanshu-u-rai/student-performance-predictor.git
+   cd student-performance-predictor
    ```
 
 2. **Install required packages**:
